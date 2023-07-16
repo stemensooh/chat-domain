@@ -33,6 +33,10 @@
   "name": "chat-domain",
   "author": "stemensooh",
   "module": "dist/chat-domain.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stemensooh/chat-domain.git"
+  },
   "size-limit": [
     {
       "path": "dist/chat-domain.cjs.production.min.js",
